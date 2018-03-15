@@ -1,0 +1,12 @@
+I6 involves dealing with layout managers.  
+- Make sure you design your components on paper first.
+- Write the code for each layout manager type one at a time and test them before moving on.
+- Many of the code sections you need to change will be labeled with a TODO comment.
+- Make sure you resize the main frame for each tab to test resizing behavior
+- Do you want some absolute minimum size?  You are permitted provided the minimum is "reasonable" (let's say < 100 x 100 pixels)
+- Remember if you have things that are being clipped but you want to allow people to see all of it (like text), then scrollpanes are your friend
+- I always use the following URL when figuring out my LayoutManager: https://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html
+- This is NOT even close to being up to my usual coding standards but in the interest of time it will suffice.  Don't judge me too harshly. :)
+- <More text to test the size of this component>
+- <Even MORE text.>
+- For this project, feel free to modify the code or just add to it.
